@@ -6,7 +6,7 @@ PATH = r"D:\chromedriver"
 
 driver = webdriver.Chrome(PATH)
 
-url = 'https://news.google.com/topstories?hl=en-IN&gl=IN&ceid=IN:en'
+url = 'https://stemilien-valence.cef.fr/'
 
 driver.get(url)
 
